@@ -1,6 +1,6 @@
 <?php
 /**
- * 禁止讨厌鬼访问网站，眼不见心不烦~
+ * Typecho 插件例子
  *
  * @package Template
  * @author Wibus
